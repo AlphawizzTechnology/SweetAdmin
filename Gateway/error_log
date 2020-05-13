@@ -1,0 +1,72 @@
+[29-May-2018 14:56:19 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 14:56:19 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 14:56:19 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 14:56:19 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 14:56:19 Etc/GMT] PHP Warning:  require_once(./lib/config_paytm.php): failed to open stream: No such file or directory in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 14
+[29-May-2018 14:56:19 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './lib/config_paytm.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 14
+[29-May-2018 14:56:34 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 14:56:34 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 14:56:34 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 14:56:34 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 14:56:34 Etc/GMT] PHP Warning:  require_once(./lib/config_paytm.php): failed to open stream: No such file or directory in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 14
+[29-May-2018 14:56:34 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './lib/config_paytm.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 14
+[29-May-2018 14:56:39 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 14:56:39 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 14:56:39 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 14:56:39 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 14:56:39 Etc/GMT] PHP Warning:  require_once(./lib/config_paytm.php): failed to open stream: No such file or directory in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 14
+[29-May-2018 14:56:39 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './lib/config_paytm.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 14
+[29-May-2018 14:56:50 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 14:56:50 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 14:56:50 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 14:56:50 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 14:56:50 Etc/GMT] PHP Warning:  require_once(./lib/config_paytm.php): failed to open stream: No such file or directory in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 14
+[29-May-2018 14:56:50 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './lib/config_paytm.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 14
+[29-May-2018 14:58:04 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 14:58:04 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 14:58:04 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 14:58:04 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 14:58:29 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 14:58:29 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 14:58:29 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 14:58:29 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 14:59:47 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 14:59:47 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 14:59:47 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 14:59:47 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 15:00:58 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 15:00:58 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 15:00:58 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 15:00:58 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 15:01:37 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 15:01:37 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 15:01:37 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 15:01:37 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 15:01:52 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 15:01:52 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 15:01:52 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 15:01:52 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 15:01:54 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 15:01:54 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 15:01:54 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 15:01:54 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 16:18:32 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 16:18:32 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 16:18:32 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 16:18:32 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 16:19:44 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 16:19:44 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 16:19:44 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 16:19:44 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[29-May-2018 16:19:46 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[29-May-2018 16:19:46 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[29-May-2018 16:19:46 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[29-May-2018 16:19:46 Etc/GMT] PHP Notice:  Undefined index: amount in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 6
+[30-May-2018 06:04:34 Etc/GMT] PHP Notice:  Undefined property: stdClass::$STATUS in /home/neeraywf/public_html/grocery_test/Gateway/verifyChecksum.php on line 37
+[30-May-2018 07:09:01 Etc/GMT] PHP Notice:  Undefined index: orderid in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 3
+[30-May-2018 07:09:01 Etc/GMT] PHP Notice:  Undefined index: email in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 4
+[30-May-2018 07:09:01 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/neeraywf/public_html/grocery_test/Gateway/generateChecksum.php on line 5
+[30-May-2018 07:09:03 Etc/GMT] PHP Warning:  mdecrypt_generic(): An empty string was passed in /home/neeraywf/public_html/grocery_test/Gateway/lib/encdec_paytm.php on line 24
+[30-May-2018 08:53:48 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/neeraywf/public_html/grocery_test/Gateway/verifyChecksum.php on line 37
+[30-May-2018 08:56:14 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/neeraywf/public_html/grocery_test/Gateway/verifyChecksum.php on line 37
+[30-May-2018 08:57:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/neeraywf/public_html/grocery_test/Gateway/verifyChecksum.php on line 37

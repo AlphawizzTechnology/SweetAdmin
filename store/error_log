@@ -1,0 +1,9 @@
+[04-May-2018 15:49:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::get_user() in /home/neeraywf/public_html/grocery_test/store/application/controllers/Api.php on line 506
+[04-May-2018 15:50:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method Product_model::get_user() in /home/neeraywf/public_html/grocery_test/store/application/controllers/Api.php on line 506
+[08-May-2018 12:35:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/neeraywf/public_html/grocery_test/store/application/controllers/Users.php on line 112
+[08-May-2018 12:35:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/neeraywf/public_html/grocery_test/store/application/controllers/Users.php on line 112
+[09-May-2018 09:18:06 Etc/GMT] PHP Fatal error:  Cannot redeclare Users_model::get_user_by_id() in /home/neeraywf/public_html/grocery_test/store/application/models/Users_model.php on line 41
+[09-May-2018 09:20:33 Etc/GMT] PHP Fatal error:  Cannot redeclare Users_model::get_user_by_id() in /home/neeraywf/public_html/grocery_test/store/application/models/Users_model.php on line 41
+[09-May-2018 09:21:56 Etc/GMT] PHP Fatal error:  Call to undefined method Users_model::get_user_by_id_store() in /home/neeraywf/public_html/grocery_test/store/application/controllers/Users.php on line 76
+[09-May-2018 10:26:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/neeraywf/public_html/grocery_test/store/application/views/admin/product/purchase.php on line 80
+[10-May-2018 07:06:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/neeraywf/public_html/grocery_test/store/application/views/admin/orders/orderslist.php on line 129
